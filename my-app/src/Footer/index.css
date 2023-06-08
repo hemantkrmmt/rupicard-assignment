@@ -1,0 +1,7 @@
+.footer-content {
+  padding: 20px 200px;
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
